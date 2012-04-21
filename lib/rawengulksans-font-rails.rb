@@ -1,0 +1,1 @@
+require 'rawengulksans-font-rails/engine'

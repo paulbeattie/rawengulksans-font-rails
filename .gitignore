@@ -1,0 +1,14 @@
+.bundle/
+log/*.log
+pkg/
+test/dummy/db/*.sqlite3
+test/dummy/log/*.log
+test/dummy/tmp/
+test/dummy/.sass-cache
+.sass-cache
+
+#OS X Stuff
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
